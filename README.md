@@ -20,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovantino&show_icons=true&locale=en&layout=compact" alt="jovantino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jovantino&show_icons=true&locale=en" alt="jovantino" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovantino&" alt="jovantino" /></p>
