@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jovan Tino</h1>
-<h3 align="center">I'm a passionate programmer who loves building innovative solutions and turning ideas into reality through code. With a strong foundation in [Your Tech Stack], I strive to create efficient, scalable, and user-friendly applications.</h3>
+<h3 align="center">I'm a passionate programmer who loves building innovative solutions and turning ideas into reality through code. I strive to create efficient, scalable, and user-friendly applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
